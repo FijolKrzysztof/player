@@ -16,10 +16,8 @@ vector<string> all_videos;
 vector<int> points;
 int files;
 int rows;
-string videoFolderPath = "/home/ja/.Wideo";
-string dataFolderPath = "/home/ja/project/cpp/player/points";
-//string videoFolderPath = "./video";
-//string dataFolderPath = "data";
+string videoFolderPath = "/path/to/video/folder";
+string dataFolderPath = "/path/to/folder/where/the/data/will/be/stored";
 
 void list_dir(string d)
 {
