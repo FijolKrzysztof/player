@@ -7,7 +7,7 @@ INSTALLATION (UBUNTU):
 3. Move the "Player" folder to your home folder.
 
 IF YOU WANT TO RUN THE PROGRAM FROM COMMAND LINE:  
-*4. In "Player/video" folder put mp4 files.  
+	4. In "Player/video" folder put mp4 files.  
 5. Open command prompt, go to the "Player" folder and type "./player".  
 
 IF YOU WANT TO START THE PROGRAM FROM MENU:  
