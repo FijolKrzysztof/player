@@ -6,22 +6,22 @@ INSTALLATION (UBUNTU):
   2. Unpack "Player.zip".
   3. Move the "Player" folder to your home folder.
 
-IF YOU WANT TO RUN THE PROGRAM FROM COMMAND LINE:
-  4. In "Player/video" folder put mp4 files.
+IF YOU WANT TO RUN THE PROGRAM FROM COMMAND PROMPT:
+  4. In "Player/video" folder put mp4 files. 
   5. Open command prompt, go to the "Player" folder and type "./player".
 
-IF YOU WANT TO RUN THE PROGRAM FROM MENU:
+IF YOU WANT TO RUN THE PROGRAM FROM ACTIVITIES:
   4. Open the "player.desktop" file in the "Player" folder.
   5. Change "username" for "Exec" and "username" for "Icon" to the name of the current user and save the file.
   6. Move the file "player.desktop" to "/home/"username"/.local/share/applications/".
   7. Log out and log back in.
   8. Move the "video" folder ("Player/video") to your home folder.
   9. In "video" folder put mp4 files.
-  10. Open menu, find "Player" and launch it.
+  10. Open activities, find "Player" and launch it.
 
 USE OF SOURCE CODE:
 
-  In "main.cpp" on lines 19 and 20 are the paths to change.
+  In "main.cpp" on lines 19 and 20, there are paths to change.
 
 KEYBOARD SHORTCUTS:
 
