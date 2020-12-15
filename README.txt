@@ -10,7 +10,7 @@ IF YOU WANT TO RUN THE PROGRAM FROM COMMAND LINE:
   4. In "Player/video" folder put mp4 files.
   5. Open command prompt, go to the "Player" folder and type "./player".
 
-IF YOU WANT TO START THE PROGRAM FROM MENU:
+IF YOU WANT TO RUN THE PROGRAM FROM MENU:
   4. Open the "player.desktop" file in the "Player" folder.
   5. Change "username" for "Exec" and "username" for "Icon" to the name of the current user and save the file.
   6. Move the file "player.desktop" to "/home/"username"/.local/share/applications/".
