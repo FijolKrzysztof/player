@@ -32,3 +32,5 @@ KEYBOARD SHORTCUTS:
   "space" pause and resume playback.
   "esc" pauses playback and minimizes all program windows.
   
+  [GitHub](https://github.com/vyskoczilova/add-anchor-links)
+  
