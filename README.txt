@@ -34,4 +34,4 @@ KEYBOARD SHORTCUTS:
   
 WEBSITE:
   
-  <li><a href="https://fijolkrzysztof.github.io/website/">Mixed Shapes</a></li>
+  <a href="https://fijolkrzysztof.github.io/website/">Mixed Shapes</a>
