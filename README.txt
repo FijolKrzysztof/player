@@ -32,6 +32,3 @@ KEYBOARD SHORTCUTS:
   "space" pause and resume playback.
   "esc" pauses playback and minimizes all program windows.
   
-WEBSITE:
-  
-  <a href="https://fijolkrzysztof.github.io/website/">Mixed Shapes</a>
