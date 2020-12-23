@@ -34,5 +34,5 @@ KEYBOARD SHORTCUTS:
   
 WEBSITE:
   
-  [GitHub](https://fijolkrzysztof.github.io/website/)
+  [GitHub](https://github.com/FijolKrzysztof/website)
   
