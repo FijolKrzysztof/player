@@ -31,8 +31,4 @@ KEYBOARD SHORTCUTS:
   "↓" decrease the volume.
   "space" pause and resume playback.
   "esc" pauses playback and minimizes all program windows.
-  
-WEBSITE:
-  
-  [GitHub](https://github.com/FijolKrzysztof/website)
-  
+ 
